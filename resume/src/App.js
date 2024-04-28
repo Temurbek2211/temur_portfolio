@@ -4,10 +4,10 @@ function App() {
   return (
     <div className="App">
       <h1>Salom</h1>
-      
+
       <h3>Xa bu men</h3>
 
-    <p>Hello World</p>
+      <p>Hello World</p>
 
       <button className='btn btn-danger mt-5'>Sign In</button>
     </div>
